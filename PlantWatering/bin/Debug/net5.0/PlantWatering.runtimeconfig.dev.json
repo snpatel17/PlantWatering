@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Spatel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Spatel\\.nuget\\packages"
+    ]
+  }
+}

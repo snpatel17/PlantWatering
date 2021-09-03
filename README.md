@@ -11,3 +11,6 @@
  - change connnection string in appsettings.json as required
  - in NuGet Package Manager Console type "UPDATE-DATABASE" and run the command
  - Check MS SQL Server for creted database
+
+####Screenshot
+  ![Alt text](https://github.com/snpatel17/plant-water-frontend/blob/master/public/screenshot.JPG)
